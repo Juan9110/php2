@@ -4,7 +4,7 @@
 . Crea otra variable que concatene las cadenas anteriores y muestra el resultado por pantalla*/
 
 $saludo1 = "hola ";
-$saludo2 = "compañeros";
+$saludo2 = "compañeros del alma";
 $saludoCompleto = $saludo1 . $saludo2;
 echo $saludoCompleto;
 
